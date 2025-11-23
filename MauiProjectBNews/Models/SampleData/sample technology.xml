@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NewsApiData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://mynamespace/test/">
+  <Status>ok</Status>
+  <TotalResults>34</TotalResults>
+  <Articles>
+    <Article>
+      <Source>
+        <Name>Nintendo Life</Name>
+      </Source>
+      <Author>Liam Doolan</Author>
+      <Title>Video: Dragon Quest VII: Reimagined Reveals A Familiar Face In New "Follow-Up" Trailer - Nintendo Life</Title>
+      <Description>Is that...?</Description>
+      <Url>https://www.nintendolife.com/news/2025/11/video-dragon-quest-vii-reimagined-reveals-a-familiar-face-in-new-follow-up-trailer</Url>
+      <UrlToImage>https://images.nintendolife.com/3bc7515192e0e/large.jpg</UrlToImage>
+      <PublishedAt>2025-11-12T00:05:00Z</PublishedAt>
+      <Content>In case you missed it, Square Enix is releasing Dragon Quest VII: Reimagined on the Switch and Switch 2 next February.
+During Sony's State of Play broadcast earlier on, the team behind this reimagin… [+1545 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>GameSpot</Name>
+      </Source>
+      <Author>Jason Fanelli</Author>
+      <Title>PlayStation State Of Play November 2025: All The Biggest Announcements And Games - GameSpot</Title>
+      <Description>The Asia-focused State of Play features updates and new game announcements from many Eastern studios.</Description>
+      <Url>https://www.gamespot.com/gallery/playstation-state-of-play-november-2025-all-the-biggest-announcements-and-games/2900-7248/</Url>
+      <UrlToImage>https://www.gamespot.com/a/uploads/screen_kubrick/3/37852/4600747-state-of-play.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T23:15:27Z</PublishedAt>
+      <Content>GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Eurogamer.net</Name>
+      </Source>
+      <Author>Connor Makar, Ed Nightingale</Author>
+      <Title>Elden Ring: Nightreign's The Forsaken Hollows DLC will see an iconic Dark Souls boss return - Eurogamer</Title>
+      <Description>Elden Ring: Nightreign DLC announced at Sony State of Play.</Description>
+      <Url>https://www.eurogamer.net/elden-ring-nightreigns-the-forsaken-hollows-dlc-will-see-an-iconic-dark-souls-boss-return</Url>
+      <UrlToImage>https://assetsio.gnwcdn.com/ELDEN-RING-NIGHTREIGN-The-Forsaken-Hollows-%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B9%E3%83%A1%E3%83%B3%E3%83%88%E3%83%88%E3%83%AC%E3%83%BC%E3%83%A9%E3%83%BC%E3%80%902025.11%E3%80%91-1-22-screenshot-(1).png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp</UrlToImage>
+      <PublishedAt>2025-11-11T22:55:55Z</PublishedAt>
+      <Content>Elden Ring: Nightreign's new major DLC update has finally been revealed. Titled The Forsaken Hollows, the DLC was announced during tonight's Sony State of Play livestream through a new trailer.
+The … [+2457 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Financial Times</Name>
+      </Source>
+      <Author>Tim Bradshaw, David Keohane, Leo Lewis</Author>
+      <Title>Sony launches cheaper Japan-only PlayStation 5 console - Financial Times</Title>
+      <Description>Region-locked version at 25% discount in move to boost domestic sales</Description>
+      <Url>https://www.ft.com/content/f6edb22a-0b19-4073-9e28-ec29b096dde3</Url>
+      <UrlToImage>https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F86ea7510-00ab-40cd-80fa-6558f77afd51.jpg?source=next-barrier-page</UrlToImage>
+      <PublishedAt>2025-11-11T22:40:04Z</PublishedAt>
+      <Content>Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>ars-technica</Id>
+        <Name>Ars Technica</Name>
+      </Source>
+      <Author>Ryan Whitwam</Author>
+      <Title>Google says new cloud-based “Private AI Compute” is just as secure as local processing - Ars Technica</Title>
+      <Description>New system allows devices to connect directly to secure space in Google’s AI servers.</Description>
+      <Url>https://arstechnica.com/google/2025/11/google-says-new-cloud-based-private-ai-compute-is-just-as-secure-as-local-processing/</Url>
+      <UrlToImage>https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google_Private_Inference-1152x648.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T21:34:10Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Tom's Guide</Name>
+      </Source>
+      <Author>Millie Davis-Williams</Author>
+      <Title>Best Black Friday Apple deals live — save big on AirPods, MacBooks, Apple Watch and more - Tom's Guide</Title>
+      <Description>I’ve found the best Black Friday Apple deals starting from just $24</Description>
+      <Url>https://www.tomsguide.com/sales-events/black-friday-apple-deals-live-from-usd24-save-up-to-34-percent-off-airpods-macbooks-airtags-apple-watch-and-more</Url>
+      <UrlToImage>https://cdn.mos.cms.futurecdn.net/pVEkyje3Ev3b2Grq8kMGBa-2000-80.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T20:53:01Z</PublishedAt>
+      <Content>Black Friday deals are getting started, and that means it’s the best time of year to shop Apple deals! Right now you can make huge savings on everything from MacBooks to iPads at Amazon — which is gr… [+754 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Forbes</Name>
+      </Source>
+      <Author>Conor Murray</Author>
+      <Title>Apple Confounds Some Fans With $230 Knit iPhone Crossbody Carrier - Forbes</Title>
+      <Description>Some customers criticized the product for its steep price tag of between $150 and $230, comparing it unfavorably to Apple’s much cheaper, now-discontinued iPod Sock product.</Description>
+      <Url>https://www.forbes.com/sites/conormurray/2025/11/11/apple-unveils-iphone-pouch-designed-by-steve-jobs-collaborator-but-some-criticize-high-price/</Url>
+      <UrlToImage>https://imageio.forbes.com/specials-images/imageserve/691396ecac9631849e6c2278/0x0.jpg?format=jpg&amp;crop=4075,2292,x387,y192,safe&amp;height=900&amp;width=1600&amp;fit=bounds</UrlToImage>
+      <PublishedAt>2025-11-11T20:06:07Z</PublishedAt>
+      <Content>Apple unveiled a new crossbody knit iPhone pouch Tuesday, raising eyebrows among consumers for its steep price tagbetween $150 and $230 depending on strap sizethough the product was made in collabora… [+2180 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>the-verge</Id>
+        <Name>The Verge</Name>
+      </Source>
+      <Author>Allison Johnson</Author>
+      <Title>Pixel phones are getting notification summaries - The Verge</Title>
+      <Description>Google’s latest feature drop will add AI summaries for long chat threads, hopefully avoiding some of the problems Apple ran into with its version.</Description>
+      <Url>https://www.theverge.com/tech/817644/pixel-update-notification-summaries-image-remix-messages</Url>
+      <UrlToImage>https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257917_Google_Pixel_10_review_AJohnson_0002.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200</UrlToImage>
+      <PublishedAt>2025-11-11T19:00:00Z</PublishedAt>
+      <Content>&lt;ul&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;/ul&gt;
+Google seems to be learning from Apples missteps.
+Google seems to be learning from Apples missteps.
+by
+Allison JohnsonClose
+Allison Johnson
+Posts from this … [+3212 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>BleepingComputer</Name>
+      </Source>
+      <Author>Lawrence Abrams</Author>
+      <Title>Microsoft November 2025 Patch Tuesday fixes 1 zero-day, 63 flaws - BleepingComputer</Title>
+      <Description>Today is Microsoft's November 2025 Patch Tuesday, which includes security updates for 63 flaws, including one actively exploited zero-day vulnerability.</Description>
+      <Url>https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2025-patch-tuesday-fixes-1-zero-day-63-flaws/</Url>
+      <UrlToImage>https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T18:45:29Z</PublishedAt>
+      <Content>Today is Microsoft's November 2025 Patch Tuesday, which includes security updates for 63 flaws, including one actively exploited zero-day vulnerability.
+This Patch Tuesday also addresses four "Criti… [+14506 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>MacRumors</Name>
+      </Source>
+      <Author>Mitchel Broussard</Author>
+      <Title>Apple Watch Series 11 Titanium Model Gets Big $120 Discount on Amazon, Plus More Watch Deals - macrumors.com</Title>
+      <Description>Amazon today has a steep discount on the 46mm cellular Apple Watch Series 11 with the Natural Titanium Case and Natural Milanese Loop. You can get...</Description>
+      <Url>https://www.macrumors.com/2025/11/11/apple-watch-series-11-discount/</Url>
+      <UrlToImage>https://images.macrumors.com/t/sTyYBwwog3gSheqFhOsxAfAfD0g=/2500x/article-new/2025/11/apple-watch-series-11-red-snow.jpeg</UrlToImage>
+      <PublishedAt>2025-11-11T18:03:01Z</PublishedAt>
+      <Content>Amazon today has a steep discount on the 46mm cellular Apple Watch Series 11 with the Natural Titanium Case and Natural Milanese Loop. You can get this model for $679.00, down from $799.00, one of th… [+1360 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>techcrunch</Id>
+        <Name>TechCrunch</Name>
+      </Source>
+      <Author>Sarah Perez</Author>
+      <Title>Threads targets podcasters with new features, aiming to become the home for show discussions - TechCrunch</Title>
+      <Description>Threads is targeting podcasters with new features, including dedicated links in the bio and more visible links in the feed.</Description>
+      <Url>https://techcrunch.com/2025/11/11/threads-targets-podcasters-with-new-features-aiming-to-become-the-place-fans-discuss-shows/</Url>
+      <UrlToImage>https://techcrunch.com/wp-content/uploads/2025/11/Threads_Podcasts.png?resize=1200,835</UrlToImage>
+      <PublishedAt>2025-11-11T18:00:00Z</PublishedAt>
+      <Content>Threads, Meta’s competitor to X, will now begin targeting a specific type of creator: podcasters. The company said on Tuesday that Threads will focus on bringing more discussions around podcasts to i… [+2695 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>BBC News</Name>
+      </Source>
+      <Title>Man dances for 144 hours to break video game marathon record - BBC</Title>
+      <Description>Szabolcs Csépe played Dance Dance Revolution for six days to secure his place in the record books.</Description>
+      <Url>https://www.bbc.com/news/articles/cy8vwjp4jxyo</Url>
+      <UrlToImage>https://ichef.bbci.co.uk/news/1024/branded_news/2cf6/live/ee8d7260-bf0e-11f0-b5a4-fb5de6982057.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T17:19:37Z</PublishedAt>
+      <Content>A Hungarian man has set a new record for longest video game marathon by playing the rhythm-based music game Dance Dance Revolution for six days.
+Szabolcs Csépe, from Budapest, bopped to over 3000 so… [+2675 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>ign</Id>
+        <Name>IGN</Name>
+      </Source>
+      <Author>Tom Phillips</Author>
+      <Title>New Legend of Zelda: Ocarina of Time LEGO Set For 2026 Looks to Feature Ganon - IGN</Title>
+      <Description>LEGO has teased a new Legend of Zelda set for 2026, featuring Link, Princess Zelda and... an ominous silhouette.</Description>
+      <Url>https://www.ign.com/articles/new-legend-of-zelda-ocarina-of-time-lego-set-for-2026-looks-to-feature-ganon</Url>
+      <UrlToImage>https://assets-prd.ignimgs.com/2025/11/11/untitled-1-1762879136520.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80</UrlToImage>
+      <PublishedAt>2025-11-11T17:09:59Z</PublishedAt>
+      <Content>LEGO has teased a new Legend of Zelda set for 2026, featuring Link, Princess Zelda and... an ominous silhouette. 
+A brief teaser video posted on social media today appears to recreate a scene from N… [+1730 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Thenewstack.io</Name>
+      </Source>
+      <Author>Steven J. Vaughan-Nichols</Author>
+      <Title>FFmpeg to Google: Fund Us or Stop Sending Bugs - The New Stack</Title>
+      <Description>A lively discussion about open source, security, and who pays the bills has erupted on Twitter.</Description>
+      <Url>https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/</Url>
+      <UrlToImage>https://cdn.thenewstack.io/media/2025/11/0c7ed4fb-allison-saeng-roanyq5ym74-unsplash.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T16:31:16Z</PublishedAt>
+      <Content>FFmpeg to Google: Fund Us or Stop Sending Bugs</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>9to5Mac</Name>
+      </Source>
+      <Author>Ryan Christoffel</Author>
+      <Title>Next year’s iPhone 18 lineup sounds like a major overhaul for Apple - 9to5Mac</Title>
+      <Description>Rumors indicate that next year’s iPhone 18 lineup could a major departure for Apple from its typical iPhone offerings.</Description>
+      <Url>https://9to5mac.com/2025/11/11/next-years-iphone-18-lineup-sounds-like-major-overhaul-for-apple/</Url>
+      <UrlToImage>https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?resize=1200%2C628&amp;quality=82&amp;strip=all&amp;ssl=1</UrlToImage>
+      <PublishedAt>2025-11-11T15:11:00Z</PublishedAt>
+      <Content>After a long stretch of the iPhone lineup looking very similar from year to year, Apple shook things up this fall by replacing its Plus model with the iPhone Air. But it sounds like next years iPhone… [+2772 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>PetaPixel</Name>
+      </Source>
+      <Author>Jeremy Gray</Author>
+      <Title>SanDisk’s New ‘Plug-and-Stay’ 1TB SSD Is Absurdly Tiny - PetaPixel</Title>
+      <Description>If you like SanDisk, its new tiny flash drive is pretty appealing.</Description>
+      <Url>https://petapixel.com/2025/11/11/sandisks-new-plug-and-stay-1tb-ssd-is-absurdly-tiny/</Url>
+      <UrlToImage>https://petapixel.com/assets/uploads/2025/11/sandisk-extreme-fit-3.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T15:09:02Z</PublishedAt>
+      <Content>SanDisk’s new Extreme Fit 1TB USB-C Flash Drive is its smallest, highest-capacity USB-C flash drive to date. The Extreme Fit is so small that SanDisk calls it a “plug and stay” drive, meaning that us… [+2118 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Minecraft.net</Name>
+      </Source>
+      <Author>Java Team</Author>
+      <Title>Minecraft Snapshot 25w46a - Minecraft</Title>
+      <Description>Minecraft Snapshot 25w46a</Description>
+      <Url>https://www.minecraft.net/en-us/article/minecraft-snapshot-25w46a</Url>
+      <UrlToImage>https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/25w46a_1170x500.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T15:00:51Z</PublishedAt>
+      <Content>Is it Tuesday already? Must be, because the lights are on in the snapshot shipping room!
+With today's release we're putting some additional polish on the upcoming features for our Mounts of Mayhem g… [+9612 chars]</Content>
+    </Article>
+  </Articles>
+</NewsApiData>

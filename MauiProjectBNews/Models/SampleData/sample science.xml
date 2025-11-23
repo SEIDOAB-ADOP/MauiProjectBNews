@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NewsApiData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://mynamespace/test/">
+  <Status>ok</Status>
+  <TotalResults>70</TotalResults>
+  <Articles>
+    <Article>
+      <Source>
+        <Name>BBC News</Name>
+      </Source>
+      <Title>Evidence of ancient tree-climbing 'drop crocs' found in Australia - BBC</Title>
+      <Description>Scientists say the crocodiles hunted like leopards by climbing trees and killing prey below.</Description>
+      <Url>https://www.bbc.com/news/articles/c2lpyrnjleeo</Url>
+      <UrlToImage>https://ichef.bbci.co.uk/news/1024/branded_news/334a/live/7dc4bc20-bf66-11f0-aa29-b94a57a58523.png</UrlToImage>
+      <PublishedAt>2025-11-12T01:34:28Z</PublishedAt>
+      <Content>Scientists have unearthed Australia's oldest known crocodile eggshells which may have belonged to "drop crocs" - creatures that climbed trees to hunt prey below.
+The discovery of the 55-million-year… [+2404 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Space.com</Name>
+      </Source>
+      <Author>Josh Dinner</Author>
+      <Title>'This all must end now.' NASA lab closures at Goddard Space Flight Center under Congressional scrutiny - Space</Title>
+      <Description>A congressional letter is putting NASA on blast.</Description>
+      <Url>https://www.space.com/space-exploration/this-all-must-end-now-nasa-lab-closures-at-goddard-space-flight-center-under-congressional-scrutiny</Url>
+      <UrlToImage>https://cdn.mos.cms.futurecdn.net/jj9kDhVHgxpuRchEHTYne4-1920-80.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T21:00:00Z</PublishedAt>
+      <Content>Activities at NASA's flagship science center are coming under a Congressional magnifying glass, and lawmakers are calling for the space agency's Office of Inspector General (OIG) to get involved.
+A … [+5358 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Live Science</Name>
+      </Source>
+      <Author>Harry Baker</Author>
+      <Title>Astronomers detect first 'radio signal' from interstellar comet 3I/ATLAS — but it wasn't aliens - Live Science</Title>
+      <Description>Astronomers at South Africa's MeerKAT radio telescope have detected the first radio waves coming from the interstellar comet 3I/ATLAS. But while this sounds suspiciously like alien activity, it is actually further proof of its completely natural origins.</Description>
+      <Url>https://www.livescience.com/space/comets/astronomers-detect-first-radio-signal-from-interstellar-comet-3i-atlas-but-it-wasnt-aliens</Url>
+      <UrlToImage>https://cdn.mos.cms.futurecdn.net/EqXHE3niEfHBFFFNsrfhia-1600-80.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T20:00:00Z</PublishedAt>
+      <Content>Astronomers have detected the first-ever "radio signal" coming from the interstellar comet 3I/ATLAS
+, right as it passed the halfway mark on its oneway trip through the solar system. And while this … [+4841 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Chron.com</Name>
+      </Source>
+      <Author>Ariana Garcia</Author>
+      <Title>Geology field trip turns into dinosaur discovery in West Texas - Chron</Title>
+      <Description>A UTEP professor discovers bones of Tenontosaurus, a plant-eating dinosaur, in West Texas.</Description>
+      <Url>https://www.chron.com/life/wildlife/article/west-texas-dinosaur-fossils-discovery-21161793.php</Url>
+      <UrlToImage>https://s.hdnux.com/photos/01/55/14/35/28624735/3/rawImage.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T19:47:31Z</PublishedAt>
+      <Content>When geology professor Jason. W. Ricketts set out to study rock formations in West Texas, he didn't expect to come back with a dinosaur. 
+The University of Texas at El Paso researcher was conducting… [+3426 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Space.com</Name>
+      </Source>
+      <Author>Anthony Wood</Author>
+      <Title>Comet Lemmon photos are plagued by satellite streaks. Here's how amateur astronomers face the problem - Space</Title>
+      <Description>Comet Lemmon photos are plagued by satellite streaks. Here's how amateur astronomers face the problem</Description>
+      <Url>https://www.space.com/stargazing/astrophotography/comet-lemmon-photos-are-plagued-by-satellite-streaks-heres-how-amateur-astronomers-face-the-problem</Url>
+      <UrlToImage>https://cdn.mos.cms.futurecdn.net/MXPmVhTZCoAGkVU645TFc9-1920-80.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T19:00:00Z</PublishedAt>
+      <Content>A composite image of Comet Lemmon revealing where bright pixels were rejected by an image-stacking algorithm. (Image credit: Dan Bartlett)
+Recent months have seen space fans revel in a wealth of spe… [+4394 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>The Daily Galaxy --Great Discoveries Channel</Name>
+      </Source>
+      <Author>Melissa Ait Lounis</Author>
+      <Title>Scientists Enter Mysterious Siberian Hole and Discover What Was Hiding Inside - The Daily Galaxy</Title>
+      <Description>A massive hole in Siberia stunned the internet, now scientists have descended to the bottom and uncovered what's really inside.</Description>
+      <Url>https://dailygalaxy.com/2025/11/scientists-enter-siberian-hole-what-inside/</Url>
+      <UrlToImage>https://dailygalaxy.com/wp-content/uploads/2025/11/Scientists-Enter-Mysterious-Siberian-Hole-and-Discover-What-Was-Hiding-Inside-scaled.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T18:45:00Z</PublishedAt>
+      <Content>A team of Russian scientists has reached the bottom of one of Siberias mysterious craters for the first time. The researchers descended more than 16 meters into the largest of the craters, navigating… [+2784 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Space.com</Name>
+      </Source>
+      <Author>Sharmila Kuthunur</Author>
+      <Title>Mars orbiter spies 'barcode' aftermath of rare Red Planet avalanche caused by meteoroid impact - Space</Title>
+      <Description>Mars orbiter spies 'barcode' aftermath of rare Red Planet avalanche caused by meteoroid impact</Description>
+      <Url>https://www.space.com/astronomy/mars/mars-orbiter-spies-barcode-aftermath-of-rare-red-planet-avalanche-caused-by-meteoroid-impact</Url>
+      <UrlToImage>https://cdn.mos.cms.futurecdn.net/n6bsuFNdEfQsqosuPDPgcH-1920-80.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T18:08:35Z</PublishedAt>
+      <Content>On Christmas Eve in 2023, a European Space Agency (ESA) spacecraft captured what looks like a barcode etched into the rusty slopes of Mars.
+The image, taken by ESA's ExoMars Trace Gas Orbiter
+, sho… [+3509 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>ScienceAlert</Name>
+      </Source>
+      <Author>Universe Today</Author>
+      <Title>One Part of Earth Is at Higher Risk of Impact by an Interstellar Object - ScienceAlert</Title>
+      <Description>We know of three interstellar objects (ISO) that have visited our inner Solar System.</Description>
+      <Url>https://www.sciencealert.com/one-part-of-earth-is-at-higher-risk-of-impact-by-an-interstellar-object</Url>
+      <UrlToImage>https://www.sciencealert.com/images/2025/11/NearEarthObjectHoveringOverEarth.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T18:04:52Z</PublishedAt>
+      <Content>We know of three interstellar objects (ISO) that have visited our inner Solar System. Oumuamua was the first one, and it came and went in 2017.
+2l/Borisov, an interstellar comet, was next, appearing… [+6854 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Phys.Org</Name>
+      </Source>
+      <Author>Krystal Kasal</Author>
+      <Title>Mathematical model indicates Neanderthal disappearance can be explained by genetic dilution - Phys.org</Title>
+      <Description>Currently, there are several hypotheses surrounding the disappearance of Neanderthals. While they all have at least some scientific support, researchers can't agree on which—or which combination—is most likely. In a new study, published in Scientific Reports,…</Description>
+      <Url>https://phys.org/news/2025-11-mathematical-neanderthal-genetic-dilution.html</Url>
+      <UrlToImage>https://scx2.b-cdn.net/gfx/news/hires/2016/neanderthal.png</UrlToImage>
+      <PublishedAt>2025-11-11T16:50:02Z</PublishedAt>
+      <Content>Currently, there are several hypotheses surrounding the disappearance of Neanderthals. While they all have at least some scientific support, researchers can't agree on whichor which combinationis mos… [+4557 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>IFLScience</Name>
+      </Source>
+      <Author>Eleanor Higgs</Author>
+      <Title>Why Does Africa Have So Many Of The World's Largest Land Animals? - IFLScience</Title>
+      <Description>Elephants and hippos and giraffes, oh my!</Description>
+      <Url>https://www.iflscience.com/why-does-africa-have-so-many-of-the-worlds-largest-land-animals-81522</Url>
+      <UrlToImage>https://assets.iflscience.com/assets/articleNo/81522/aImg/87489/elephants-near-a-river-meta.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T16:08:20Z</PublishedAt>
+      <Content>While Europe and North America might be home to bears and wolves, they are lacking in the even larger species that roam across the continent of Africa. Even Asia and Australasia, with their freaky-lo… [+2380 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Space.com</Name>
+      </Source>
+      <Author>Jeff Spry</Author>
+      <Title>Giving Gemini its due: 'Apollo 13' author Jeffrey Kluger honors 'forgotten' NASA program with new book (exclusive interview) - Space</Title>
+      <Description>"I felt like it was time to give the Gemini program its due. It was an opportunity not to be missed."</Description>
+      <Url>https://www.space.com/entertainment/space-books/giving-gemini-its-due-apollo-13-author-jeffrey-kluger-honors-forgotten-nasa-program-with-new-book-exclusive-interview</Url>
+      <UrlToImage>https://cdn.mos.cms.futurecdn.net/jCiR3JuAjRCZJabyocbKUL-1280-80.png</UrlToImage>
+      <PublishedAt>2025-11-11T16:00:00Z</PublishedAt>
+      <Content>NASA's 10 crewed Project Gemini flights, which launched in 1965 and 1966, were instrumental in delivering the knowledge and testing that would lead to landing astronauts on the moon in July 1969 duri… [+6403 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Defector.com</Name>
+      </Source>
+      <Title>Let Us Now Celebrate Our Extinct Short King, Nanotyrannus - Defector</Title>
+      <Description>For decades, paleontologists have been terrorized by the notion of a teenage Tyrannosaurus rex. Starting in the 1940s, excavations unearthed skulls belonging to what appeared to be smaller and more slender tyrannosaurs. But the scientists were sharply divided…</Description>
+      <Url>https://defector.com/let-us-now-celebrate-our-extinct-short-king-nanotyrannus</Url>
+      <UrlToImage>https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/11/Nanotyrannus-Final-Art-800x0600-1.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T15:25:00Z</PublishedAt>
+      <Content>For decades, paleontologists have been terrorized by the notion of a teenage Tyrannosaurus rex. Starting in the 1940s, excavations unearthed skulls belonging to what appeared to be smaller and more s… [+9430 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Monochrome-watches.com</Name>
+      </Source>
+      <Author>Brice Goulard</Author>
+      <Title>Introducing: The Unique Christiaan van der Klaauw Planetarium Julie - Monochrome Watches</Title>
+      <Description>A mesmerising skeletonised edition of Christiaan van der Klaauw's classic planetarium watch with meteorite case.</Description>
+      <Url>https://monochrome-watches.com/christiaan-van-der-klaauw-planetarium-julie-unique-openworked-edition-of-the-worlds-smallest-mechanical-planetarium-introducing/</Url>
+      <UrlToImage>https://monochrome-watches.com/app/uploads/2025/11/Christiaan-van-der-Klaauw-Planetarium-Julie-openworked-unique-piece-1.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T15:00:05Z</PublishedAt>
+      <Content>Any watch from Christiaan van der Klaauw that carries a planetarium is, by definition, special. Since the mid-1990s, this rare and spectacular complication has been the brand’s signature feature, con… [+4354 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>ScienceAlert</Name>
+      </Source>
+      <Author>Michelle Starr</Author>
+      <Title>Microscopic Engine Hotter Than The Sun Probes Limits of Physics - ScienceAlert</Title>
+      <Description>A tiny, particle-sized engine that runs at temperatures approaching the innermost core of the Sun could open a window into the smallest extremes of thermodynamics.</Description>
+      <Url>https://www.sciencealert.com/microscopic-engine-hotter-than-the-sun-probes-limits-of-physics</Url>
+      <UrlToImage>https://www.sciencealert.com/images/2025/11/bright-light.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T14:01:01Z</PublishedAt>
+      <Content>A tiny, particle-sized engine that runs at temperatures approaching the innermost core of the Sun could open a window into the smallest extremes of thermodynamics.
+By levitating a single particle of… [+4128 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Space.com</Name>
+      </Source>
+      <Author>Kenna Hughes-Castleberry</Author>
+      <Title>Comet Lemmon lights up the sky over Spain photo of the day for Nov. 11, 2025 - Space</Title>
+      <Description>Comet Lemmon lights the sky over Spain | Space photo of the day for Nov. 11, 2025</Description>
+      <Url>https://www.space.com/astronomy/comets/comet-lemmon-lights-up-the-sky-over-spain-space-photo-of-the-day-for-nov-11-2025</Url>
+      <UrlToImage>https://cdn.mos.cms.futurecdn.net/jBgrTzKfPDAHBpo2V8oceP-1920-80.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T14:00:00Z</PublishedAt>
+      <Content>Comets of this type aren't everyday sightings. The opportunity to observe objects that might have orbital periods measured in thousands of years is fleeting. So when Comet Lemmon
+ recently appeared … [+1967 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Indiandefencereview.com</Name>
+      </Source>
+      <Title>For 25 Years, This Giant 'Spider' Dominated Headlines for 25 Years — but It Was Something Else Entirely - Indian Defence Review</Title>
+      <Description>For 25 years, one fossil haunted science as the biggest spider ever discovered—until a shocking twist exposed the truth. Locked in a vault and misread for decades, its real identity changes everything we thought we knew about prehistoric predators.</Description>
+      <Url>https://indiandefencereview.com/for-25-years-giant-spider-dominated-headlines-for-25-years-but-it-was-something-else-entirely/</Url>
+      <UrlToImage>https://indiandefencereview.com/wp-content/uploads/2025/11/its-true-identity-is-stranger-than-fiction.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T13:30:00Z</PublishedAt>
+      <Content>In 1980, a fossil pulled from the carbon-rich rock beds of central Argentina stunned the paleontological world. Named Megarachne servinei, the creature was hailed as the largest spider everdiscovered… [+5255 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>SpaceNews</Name>
+      </Source>
+      <Author>Jeff Foust</Author>
+      <Title>Key antenna in NASA’s Deep Space Network damaged - SpaceNews</Title>
+      <Description>One of the largest antennas in NASA’s Deep Space Network was damaged in September and may be out of service for an extended period.</Description>
+      <Url>http://spacenews.com/key-antenna-in-nasas-deep-space-network-damaged/</Url>
+      <UrlToImage>https://spacenews.com/wp-content/uploads/2025/11/dss14.jpeg</UrlToImage>
+      <PublishedAt>2025-11-11T13:12:48Z</PublishedAt>
+      <Content>WASHINGTON One of the largest antennas in NASAs Deep Space Network was damaged in September and may be out of service for an extended period, further straining the system.
+NASAs Jet Propulsion Labor… [+3209 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Space.com</Name>
+      </Source>
+      <Author>Keith Cooper</Author>
+      <Title>Does quantum gravity exist? A new experiment has deepened the mystery - Space</Title>
+      <Description>Does quantum gravity exist? A new experiment has deepened the mystery</Description>
+      <Url>https://www.space.com/astronomy/does-quantum-gravity-exist-a-new-experiment-has-deepened-the-mystery</Url>
+      <UrlToImage>https://cdn.mos.cms.futurecdn.net/qnF2CSwUYWDkd3G4uWaFxf-1980-80.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T13:00:00Z</PublishedAt>
+      <Content>A new discovery suggests gravitational fields can enable matter to become quantum entangled — and that's even if the concept of quantum gravity does not exist. The idea comes from two London-based ph… [+7212 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Earth.com</Name>
+      </Source>
+      <Title>Space health score reveals that Earth’s orbit is in serious crisis - Earth.com</Title>
+      <Description>Space environment health score shows how healthy - or stressed - Earth’s orbit is expected to become over the next 200 years.</Description>
+      <Url>https://www.earth.com/news/space-health-score-reveals-that-earths-orbit-is-in-serious-crisis/</Url>
+      <UrlToImage>https://cff2.earth.com/uploads/2025/11/10100402/Space-health-score-reveals-Earths-orbit-is-in-crisis.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T12:58:47Z</PublishedAt>
+      <Content>Space is filling up with junk fast. Nearly 30,000 tracked pieces of debris are orbiting Earth right now. And that doesn’t include hundreds of thousands of smaller fragments that are too tiny to monit… [+4779 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>The Daily Galaxy --Great Discoveries Channel</Name>
+      </Source>
+      <Author>Samir Sebti</Author>
+      <Title>Archaeologists Start Cooking Like Neanderthals… And Discover Something Deeply Disturbing - The Daily Galaxy</Title>
+      <Description>A groundbreaking experiment has revealed a hidden side of Neanderthal life that’s rewriting what scientists thought they knew. What researchers uncovered by cooking birds with stone tools is shaking up archaeology—and exposing what may be missing from history.</Description>
+      <Url>https://dailygalaxy.com/2025/11/archaeologists-start-cooking-like-neanderthals-and-discover-something-deeply-disturbing/</Url>
+      <UrlToImage>https://dailygalaxy.com/wp-content/uploads/2025/11/This-Unexpected-Discovery-Could-Explain-Why-Weve-Been-Underestimating-Neanderthals-for-Decades-scaled.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T12:15:00Z</PublishedAt>
+      <Content>For decades, the prevailing image of Homo neanderthalensis has been that of a resourceful but cognitively limited hunter, focused largely on big game. But a recent experiment by European archaeologis… [+5273 chars]</Content>
+    </Article>
+  </Articles>
+</NewsApiData>

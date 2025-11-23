@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NewsApiData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://mynamespace/test/">
+  <Status>ok</Status>
+  <TotalResults>34</TotalResults>
+  <Articles>
+    <Article>
+      <Source>
+        <Name>Hollywood Reporter</Name>
+      </Source>
+      <Title>‘Dancing With the Stars’ Celebrates 20 Years With Perfect Scores, Tom Bergeron and Another Elimination: See the Scores, Who Went Home - The Hollywood Reporter</Title>
+      <Url>http://www.hollywoodreporter.com/tv/tv-news/dwts-20-birthday-season-34-episode-9-scores-elimination-1236424329/</Url>
+      <PublishedAt>2025-11-12T03:28:40Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Id>al-jazeera-english</Id>
+        <Name>Al Jazeera English</Name>
+      </Source>
+      <Author>Abid Hussain</Author>
+      <Title>Pakistan says ‘India proxies’ behind Islamabad bombing: What we know so far - Al Jazeera</Title>
+      <Description>Suicide attack at court complex kills 12, injures more than 30, a day after a deadly explosion in the Indian capital.</Description>
+      <Url>https://www.aljazeera.com/news/2025/11/11/pakistan-says-india-proxies-behind-islamabad-bombing-what-we-know-so-far</Url>
+      <UrlToImage>https://www.aljazeera.com/wp-content/uploads/2025/11/Court-Isb-1762870850.jpg?resize=1200%2C675</UrlToImage>
+      <PublishedAt>2025-11-12T02:54:44Z</PublishedAt>
+      <Content>Islamabad, Pakistan Prime Minister Shehbaz Sharif has blamed India for the suicide attack that struck outside the district and sessions court building in Islamabad on Tuesday afternoon.
+Pakistani Fe… [+8592 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>cbs-news</Id>
+        <Name>CBS News</Name>
+      </Source>
+      <Author>Austen  Erblat, Dave  Aguilera, Joe  Ruch</Author>
+      <Title>Coloradans see, photograph northern lights across the state - CBS News</Title>
+      <Description>Across the state, Coloradans have been photographing the aurora borealis -- commonly referred to as the northern lights -- and even seeing them with their naked eye, which typically has a harder time seeing them than cameras with the right settings.</Description>
+      <Url>https://www.cbsnews.com/colorado/news/coloradoans-see-photograph-northern-lights-across-the-state/</Url>
+      <UrlToImage>https://assets1.cbsnewsstatic.com/hub/i/r/2025/11/12/980e01cb-be67-4da8-9de5-ea219a561af6/thumbnail/1200x630/3c46d7983fb19b625ef92f44a2a164c9/img-4704.jpg</UrlToImage>
+      <PublishedAt>2025-11-12T02:27:00Z</PublishedAt>
+      <Content>Across the state, Coloradans have been photographing the aurora borealis -- commonly referred to as the northern lights -- and even seeing them with their naked eye, which typically has a harder time… [+2869 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>politico</Id>
+        <Name>Politico</Name>
+      </Source>
+      <Author>Natalie Fertig</Author>
+      <Title>Progressive on the edge of a win in Seattle mayor race - Politico</Title>
+      <Description>Katie Wilson pulled ahead of a moderate Democrat in a campaign that focused on the cost of living in one of America’s most-expensive cities.</Description>
+      <Url>https://www.politico.com/news/2025/11/11/progressive-activist-seattle-mayors-race-00647423</Url>
+      <UrlToImage>https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fff%2Fb0%2F81b5573447978fae4e895dc57339%2Felection-2025-seattle-mayor-20326.jpg</UrlToImage>
+      <PublishedAt>2025-11-12T02:25:36Z</PublishedAt>
+      <Content>Kate Wilson won 61.23% of the 6,121 ballots counted today. Huge percentage and her total is close to not requiring a recount, Crystal Fincher, a Seattle-based political consultant, said by text after… [+2673 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>associated-press</Id>
+        <Name>Associated Press</Name>
+      </Source>
+      <Author>Eddie Pells</Author>
+      <Title>Ohio State stays on top of playoff bracket, while Miami makes a big move - AP News</Title>
+      <Description>Ohio State stayed atop the College Football Playoff rankings for the second straight week, while Indiana remained at No. 2 despite barely squeaking out a victory last week while third-ranked Texas A&amp;M coasted. Alabama and Georgia rounded out the same top five…</Description>
+      <Url>https://apnews.com/article/college-playoff-cfp-rankings-7c67cf5715aa39f76a4d1f62a39264a9</Url>
+      <UrlToImage>https://dims.apnews.com/dims4/default/1a682b4/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa2%2F39%2F988fa281e2fb8bd0af5c63f16e42%2Fc102a9a6da0b46b693a7d2fb9a05c86f</UrlToImage>
+      <PublishedAt>2025-11-12T02:07:00Z</PublishedAt>
+      <Content>Not surprisingly, Ohio State stayed at the top of the rankings, and there was a healthy debate about whether last weekends action warranted keeping Indiana at No. 2, one spot ahead of Texas A&amp;amp;M.
+… [+4545 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>NPR</Name>
+      </Source>
+      <Author />
+      <Title>Why flight disruptions could linger even after the government shutdown ends - NPR</Title>
+      <Description>Airlines and aviation regulators warned that flight disruptions are likely to continue even after the government reopens. Thousands of flights have been cancelled as air traffic restrictions ramp up.</Description>
+      <Url>https://www.npr.org/2025/11/11/nx-s1-5605538/air-traffic-control-flights-controllers-government-shutdown</Url>
+      <UrlToImage>https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4200x2363+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F05%2F07%2Fc05079db4d4c99b01e6792524acc%2Fap25315690999467.jpg</UrlToImage>
+      <PublishedAt>2025-11-12T01:28:17Z</PublishedAt>
+      <Content>WASHINGTON Flight disruptions are likely to continue even after the government reopens, airlines and aviation regulators warned, as airlines cancelled scores of flights on Tuesday.
+The Federal Aviat… [+3064 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>the-washington-post</Id>
+        <Name>The Washington Post</Name>
+      </Source>
+      <Author>Mark Berman</Author>
+      <Title>Supreme Court extends pause on order requiring full SNAP payments - The Washington Post</Title>
+      <Description>The Trump administration has twice gone to the Supreme Court in recent days, seeking to prevent other judges from forcing it to fully fund SNAP benefits for November.</Description>
+      <Url>https://www.washingtonpost.com/politics/2025/11/11/supreme-court-snap-shutdown-trump/</Url>
+      <UrlToImage>https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BHIXK2KJPIN3DTFFMDUSF5PYBY.jpg&amp;w=1440</UrlToImage>
+      <PublishedAt>2025-11-12T01:26:59Z</PublishedAt>
+      <Content>The U.S. Supreme Court on Tuesday kept in place a pause on a lower-court order that had directed the Trump administration to pay full food assistance benefits to millions of Americans, preventing fed… [+54 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>cnn</Id>
+        <Name>CNN</Name>
+      </Source>
+      <Author>Dan Heching</Author>
+      <Title>‘Toy Story 5’ teaser trailer: Screens are the enemy - CNN</Title>
+      <Description>It’s the “Toy Story” toys vs. tech in the new teaser for the latest sequel.</Description>
+      <Url>https://www.cnn.com/2025/11/11/entertainment/toy-story-5-teaser-watch-now</Url>
+      <UrlToImage>https://media.cnn.com/api/v1/images/stellar/prod/c-toy-story-5.jpg?c=16x9&amp;q=w_800,c_fill</UrlToImage>
+      <PublishedAt>2025-11-12T01:13:00Z</PublishedAt>
+      <Content>Is the age of toys really over?
+That is the fateful question posed by the new teaser trailer for Toy Story 5, released by Pixar on Tuesday, which picks up on the familiar parenting conundrum about s… [+1157 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>bloomberg</Id>
+        <Name>Bloomberg</Name>
+      </Source>
+      <Author>Min-Jeong Lee, Kentaro Tsutsumi</Author>
+      <Title>SoftBank’s Shares Dive After Nvidia Sale Spooks AI-Wary Market - Bloomberg.com</Title>
+      <Description>SoftBank Group Corp.’s stock slid as much as 10% after the tech investor’s exit from AI chipmaker Nvidia Corp. spooked investors already nervous about climbing tech-sector valuations.</Description>
+      <Url>https://www.bloomberg.com/news/articles/2025-11-12/softbank-s-shares-dive-after-nvidia-sale-spooks-ai-wary-market</Url>
+      <UrlToImage>https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8YJNsHWEaBQ/v0/1200x800.jpg</UrlToImage>
+      <PublishedAt>2025-11-12T00:50:00Z</PublishedAt>
+      <Content>SoftBank Group Corp.s stock slid as much as 10% after the tech investors exit from AI chipmaker Nvidia Corp. spooked investors already nervous about climbing tech-sector valuations.
+The Japanese com… [+376 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>The Dallas Morning News</Name>
+      </Source>
+      <Author>Mike Curtis</Author>
+      <Title>Dallas Mavericks fire GM Nico Harrison nine months after Luka Doncic trade - Dallas News</Title>
+      <Description>Nico Harrison is no longer the general manager of the Dallas Mavericks.</Description>
+      <Url>https://www.dallasnews.com/sports/mavericks/2025/11/11/nico-harrison-fired-dallas-mavericks-gm/</Url>
+      <UrlToImage>https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/3JFZSEW3RNH3TAPE4NWT4LGHHQ.jpg?auth=692afeb598e52dd33b5db6c9c702fd6e2dcbc0035b42488e2949a966fde1829a&amp;quality=80&amp;width=1200&amp;height=630&amp;smart=true</UrlToImage>
+      <PublishedAt>2025-11-12T00:36:03Z</PublishedAt>
+      <Content>P.J. Washington tried to ignore them. The Dallas Mavericks forward connected on his first free throw attempt midway through the fourth quarter Monday night when a familiar chant broke out. By the tim… [+7207 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>associated-press</Id>
+        <Name>Associated Press</Name>
+      </Source>
+      <Author>Seth Borenstein</Author>
+      <Title>AP Interview: Newsom says Trump climate-fighting absence is ‘doubling down on stupid’ - AP News</Title>
+      <Description>California Gov. Gavin Newsom is criticizing the United States for missing key United Nations climate talks, calling it doubling down on stupid. In an AP interview Tuesday at the U.N. climate talks in Brazil, Newsom warns that the U.S. risks losing economic po…</Description>
+      <Url>https://apnews.com/article/newsom-california-climate-change-cop30-trump-942d4d6847130d9ffc4dc2eb3e630a6e</Url>
+      <UrlToImage>https://dims.apnews.com/dims4/default/0f19597/2147483647/strip/true/crop/5554x3124+0+289/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F86%2F8a%2F26ca41e885a2e1998c71b8a58986%2Fd353a16c721f44f599b027897668da3b</UrlToImage>
+      <PublishedAt>2025-11-12T00:23:00Z</PublishedAt>
+      <Content>BELEM, Brazil (AP) Calling Americas absence from key United Nations climate negotiations doubling down on stupid, California Gov. Gavin Newsom said Tuesday the United States risks being left behind a… [+6719 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Miami Herald</Name>
+      </Source>
+      <Author>Jordan McPherson</Author>
+      <Title>Where Miami Hurricanes landed in second College Football Playoff ranking of the season - Miami Herald</Title>
+      <Description>The Miami Hurricanes are No. 15 in the second College Football Playoff ranking, which determines the teams who will compete for a national title.</Description>
+      <Url>https://www.miamiherald.com/sports/college/acc/university-of-miami/article312856306.html</Url>
+      <UrlToImage>https://www.miamiherald.com/public/latest-news/l2dntf/picture312841746/alternates/LANDSCAPE_1140/2842AD%202025-11-08%20UM%20vs%20Syracuse.jpg</UrlToImage>
+      <PublishedAt>2025-11-12T00:17:00Z</PublishedAt>
+      <Content>University of Miami
+If the season ended today, the Miami Hurricanes would be in the College Football Playoff field with a major caveat on that note.
+The Hurricanes on Tuesday checked in at No. 15 i… [+4455 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>BBC News</Name>
+      </Source>
+      <Title>Starbucks' barista strike could undermine its turnaround plan - BBC</Title>
+      <Description>The coffee giant is returning to its roots to boost sales but labour tensions could derail the strategy.</Description>
+      <Url>https://www.bbc.com/news/articles/c5ype4j07xpo</Url>
+      <UrlToImage>https://ichef.bbci.co.uk/news/1024/branded_news/8790/live/85bfe0b0-be6e-11f0-ab9d-83e1c35826e9.jpg</UrlToImage>
+      <PublishedAt>2025-11-12T00:04:20Z</PublishedAt>
+      <Content>Danielle Kaye,Business reporter and 
+Natalie Sherman,Business reporter
+Starbucks workers attend a rally as they go on a one-day strike outside a store in Buffalo, New York, US, November 17, 2022.
+… [+5339 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>associated-press</Id>
+        <Name>Associated Press</Name>
+      </Source>
+      <Author>Paul Wiseman</Author>
+      <Title>What to know about Trump’s plan to give Americans a $2,000 tariff dividend - AP News</Title>
+      <Description>President Donald Trump boasts that his tariffs protect American industries, lure factories to the United States, raise money for the federal government and give him diplomatic leverage. Now, he’s claiming they can finance a windfall for American families, too…</Description>
+      <Url>https://apnews.com/article/trump-tariff-dividends-election-supreme-court-21ee2da1ab7966fa6566b81bc91b11d4</Url>
+      <UrlToImage>https://dims.apnews.com/dims4/default/8bc7a27/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8a%2Fd7%2F73df1f29b02fa14ee92087dc28a6%2Fb303b6b16ac7414abef7fd2148491d19</UrlToImage>
+      <PublishedAt>2025-11-12T00:01:00Z</PublishedAt>
+      <Content>WASHINGTON (AP) President Donald Trump boasts that his tariffs protect American industries, lure factories to the United States, raise money for the federal government and give him diplomatic leverag… [+3393 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>cbs-news</Id>
+        <Name>CBS News</Name>
+      </Source>
+      <Title>Dominican Republic hit with widespread power outage - CBS News</Title>
+      <Description>A rare blackout hit the entire Dominican Republic​ on Tuesday, snarling traffic and paralyzing businesses in the country of nearly 11 million people.</Description>
+      <Url>https://www.cbsnews.com/news/dominican-republic-widespread-power-outage/</Url>
+      <UrlToImage>https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/11/25c3e413-c7c7-4236-b318-eecb1ea1dfd1/thumbnail/1200x630/4d76130c2deacf5480e20ec695dcdb6e/gettyimages-1213721649.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T22:44:00Z</PublishedAt>
+      <Content>A rare blackout hit the entire Dominican Republic on Tuesday, snarling traffic and paralyzing businesses in the country of nearly 11 million people.
+Officials blamed a failure in the grid's transmis… [+2164 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Fox Baltimore</Name>
+      </Source>
+      <Author>DANNY TOW | FOX45 NEWS</Author>
+      <Title>Chick-Fil-A to test new menu item in Baltimore - WBFF</Title>
+      <Description>Fast-food chain Chick-Fil-A is rolling out a new test menu item, and Baltimoreans will be among the first with a chance to try it.Starting December 1, select Ch</Description>
+      <Url>https://foxbaltimore.com/news/local/chick-fil-a-test-new-menu-item-baltimore-chicken-waffles</Url>
+      <UrlToImage>https://foxbaltimore.com/resources/media/e1eceda4-11ab-45c8-bd19-23e9f0245a99-thumb_13762.png</UrlToImage>
+      <PublishedAt>2025-11-11T22:31:39Z</PublishedAt>
+      <Content>(WBFF) Fast-food chain Chick-Fil-A is rolling out a new test menu item, and Baltimoreans will be among the first with a chance to try it.
+Starting December 1, select Chick-Fil-A locations in Baltimo… [+660 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Deadline</Name>
+      </Source>
+      <Author>Pete Hammond</Author>
+      <Title>'The Carpenter's Son' Review: Nicolas Cage In Biblical Horror mashup - Deadline</Title>
+      <Description>A review of 'The Carpenter's Son' which stars Nicolas Cage as Joseph in conflict with the teenage Jesus who is just finding his way and unique self.</Description>
+      <Url>http://deadline.com/2025/11/the-carpenters-son-review-nicolas-cage-biblical-horror-1236614411/</Url>
+      <UrlToImage>https://deadline.com/wp-content/uploads/2025/11/The-Carpenters-Son.avif?w=1024</UrlToImage>
+      <PublishedAt>2025-11-11T22:19:00Z</PublishedAt>
+      <Content>You have to give writer-director Lotfy Nathan points for originality.
+His new film, The Carpenter’s Son, is not just any standard telling of the oft-told story of Joseph and Mary and their son, Jesu… [+3997 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>ars-technica</Id>
+        <Name>Ars Technica</Name>
+      </Source>
+      <Author>Ryan Whitwam</Author>
+      <Title>Google says new cloud-based “Private AI Compute” is just as secure as local processing - Ars Technica</Title>
+      <Description>New system allows devices to connect directly to secure space in Google’s AI servers.</Description>
+      <Url>https://arstechnica.com/google/2025/11/google-says-new-cloud-based-private-ai-compute-is-just-as-secure-as-local-processing/</Url>
+      <UrlToImage>https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google_Private_Inference-1152x648.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T21:34:10Z</PublishedAt>
+    </Article>
+  </Articles>
+</NewsApiData>

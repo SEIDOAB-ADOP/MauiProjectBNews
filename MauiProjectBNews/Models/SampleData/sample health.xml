@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NewsApiData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://mynamespace/test/">
+  <Status>ok</Status>
+  <TotalResults>67</TotalResults>
+  <Articles>
+    <Article>
+      <Source>
+        <Name>Eatingwell.com</Name>
+      </Source>
+      <Author>https://www.facebook.com/EatingWell/</Author>
+      <Title>14 Best Breakfast Recipes with 20+ Grams of Protein - EatingWell</Title>
+      <Description>With at least 20 grams of protein per serving, these overnight oats, casseroles and quiche recipes will help you stay full and energized until lunch.</Description>
+      <Url>https://www.eatingwell.com/breakfast-recipes-with-20-grams-of-protein-11847063</Url>
+      <UrlToImage>https://www.eatingwell.com/thmb/M4_2iI16zR7nIzSVspaUOzSIJrg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/get-your-greens-quiche-beauty-262_preview_maxWidth_4000_maxHeight_4000_ppi_300_quality_100-ce8154b307a149e0bea6015c626baf72.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T23:00:00Z</PublishedAt>
+      <Content>Photographer: Jen Causey, Food Stylist: Jennifer Wendorf, Prop Stylist: Hannah Greenwood.
+This high-protein breakfast casserole is the best way to start your day, packed with eggs, cottage cheese an… [+6344 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Neurosciencenews.com</Name>
+      </Source>
+      <Author>Neuroscience News</Author>
+      <Title>Everyday Speech May Reveal Early Cognitive Decline - Neuroscience News</Title>
+      <Description>Researchers found that everyday speech timing — including pauses, fillers, and subtle patterns — strongly reflects executive function, a key cognitive system that supports memory and flexible thinking.</Description>
+      <Url>https://neurosciencenews.com/speech-cognitive-decline-29922/</Url>
+      <UrlToImage>https://neurosciencenews.com/files/2025/11/peech-cognitive-decline-neurosicence.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T22:37:20Z</PublishedAt>
+      <Content>Summary: Researchers found that everyday speech timing including pauses, fillers, and subtle patterns strongly reflects executive function, a key cognitive system that supports memory and flexible th… [+6840 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>the-washington-post</Id>
+        <Name>The Washington Post</Name>
+      </Source>
+      <Author>Lindsey Bever</Author>
+      <Title>No, putting a potato in your sock will not cure a cold - The Washington Post</Title>
+      <Description>TikTokers are placing slices of raw potatoes in their — and their children’s socks — overnight to cure illnesses.</Description>
+      <Url>https://www.washingtonpost.com/wellness/2025/11/11/potato-sock-illness-myth/</Url>
+      <UrlToImage>https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZU4P6T5D45ACBB2ETYNLXVUBYI.jpg&amp;w=1440</UrlToImage>
+      <PublishedAt>2025-11-11T19:00:00Z</PublishedAt>
+      <Content>Can putting a slice of raw potato in your sock cure a cold?
+Under-the-weather TikTokers are slicing raw potatoes and placing them in their and their childrens socks before bed. The theory is that pr… [+5916 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>WPVI-TV</Name>
+      </Source>
+      <Author>6abc Digital Staff</Author>
+      <Title>Health officials warn of possible measles exposure at Philadelphia International Airport - 6abc Philadelphia</Title>
+      <Description>The exposure may have happened at Terminals A and B at PHL on Sunday, between 8:50 a.m. and 4:00 p.m.</Description>
+      <Url>https://6abc.com/post/health-officials-warn-possible-measles-exposure-philadelphia-international-airport/18143815/</Url>
+      <UrlToImage>https://cdn.abcotvs.com/dip/images/18144053_111125-wpvi-philadelphia-international-airport-adobe-stock-img.png?w=1600</UrlToImage>
+      <PublishedAt>2025-11-11T18:46:09Z</PublishedAt>
+      <Content>PHILADELPHIA (WPVI) -- Health officials are warning that there may have been a possible measles exposure at Philadelphia International Airport.
+The Philadelphia Department of Public Health says an i… [+3983 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>HuffPost</Name>
+      </Source>
+      <Author>Erin Hall</Author>
+      <Title>When My Dad Got Cancer, I Kept Asking, 'Why Him?' His 3-Word Response Floored Me. - AOL.com</Title>
+      <Description>"It was 10 months into his treatment when I finally broke in front of him, and he revealed the surprising yet profound truth he was using to guide his way th...</Description>
+      <Url>https://www.huffpost.com/entry/dad-colon-colorectal-cancer-grief-wisdom_n_69109a65e4b0853433847620</Url>
+      <UrlToImage>https://media.zenfs.com/en/aol_huffpost_us_657/e816f99446a4601afe11a638ded0dc24</UrlToImage>
+      <PublishedAt>2025-11-11T17:26:46Z</PublishedAt>
+      <Content>I thought it may have been Moms cheesy potatoes.
+It was Easter, and in between doing a million things, she added too much butter. When she first pulled the pan from the oven, a thick layer of oil wr… [+8927 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Thebrighterside.news</Name>
+      </Source>
+      <Author>Joseph Shavit, Joshua Shavit</Author>
+      <Title>Major study reveals why Alzheimer’s patients forget their family, friends - The Brighter Side of News</Title>
+      <Description>New research shows how weakening brain nets may trigger social memory loss in Alzheimer’s and points to a promising treatment target.</Description>
+      <Url>https://www.thebrighterside.news/post/major-study-reveals-why-alzheimers-patients-forget-their-family-friends/#article</Url>
+      <UrlToImage>https://www.thebrighterside.news/uploads/2025/11/shutterstock_2536739201.jpg?auto=webp</UrlToImage>
+      <PublishedAt>2025-11-11T17:07:00Z</PublishedAt>
+      <Content>Families often describe a sharp kind of heartbreak when a loved one with Alzheimers stops recognizing the people closest to them. New research offers a clearer picture of why this loss happens and po… [+6124 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Slate Magazine</Name>
+      </Source>
+      <Author>Jessica Stoya</Author>
+      <Title>My boyfriend just asked me to do something to him in bed. But if I follow through, I'll think less of him. - Slate</Title>
+      <Description>I’m up for most things, but not this.</Description>
+      <Url>https://slate.com/advice/2025/11/boyfriend-advice-sex-turn-off.html</Url>
+      <UrlToImage>https://compote.slate.com/images/751b8e39-9ea3-41da-ba45-48a5b94d4627.gif?crop=1560%2C1040%2Cx0%2Cy0&amp;width=1560</UrlToImage>
+      <PublishedAt>2025-11-11T17:01:00Z</PublishedAt>
+      <Content>How to Do It is Slates sex advice column. Have a question? Send it to Stoya and Rich here. Its anonymous!
+Dear How to Do It, 
+Im a 28-year-old woman in a relationship with a 31-year-old man. Weve b… [+4540 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Santa Rosa Press Democrat</Name>
+      </Source>
+      <Author>Phil Barber</Author>
+      <Title>Sonoma County farmers confront new avian flu wave and debate over vaccine - The Press Democrat</Title>
+      <Description>At least three Sonoma County poultry farms have tested positive for avian flu in the past three weeks, early echoes of the 2023-24 winter season that devastated the local industry. All of Californi…</Description>
+      <Url>https://www.pressdemocrat.com/2025/11/11/sonoma-county-farmers-confront-new-avian-flu-wave-and-debate-over-vaccine/</Url>
+      <UrlToImage>https://www.pressdemocrat.com/wp-content/uploads/migration/2025/01/ad563117-20bd-5397-93f7-82f48307f849.jpg?w=1024&amp;h=670</UrlToImage>
+      <PublishedAt>2025-11-11T15:09:23Z</PublishedAt>
+      <Content>The first tastes of wintry weather have brought an ominous feeling back to Sonoma Countys poultry producers. At least three farms have tested positive for Highly Pathogenic Avian Flu, or HPAI, in the… [+7354 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>EurekAlert</Name>
+      </Source>
+      <Title>Research alert: GLP-1 drugs linked to dramatically lower death rates in colon cancer patients - EurekAlert!</Title>
+      <Description>In an analysis of more than 6,800 colon cancer patients across all University of California Health sites, researchers found that those taking glucagon-like peptide-1 (GLP-1) medications were less than half as likely to die within five years compared to those …</Description>
+      <Url>https://www.eurekalert.org/news-releases/1105430</Url>
+      <UrlToImage>https://www.eurekalert.org/images/EurekAlert-bluebg_Twitter_601X601.png</UrlToImage>
+      <PublishedAt>2025-11-11T14:30:42Z</PublishedAt>
+      <Content>A new University of California San Diego study offers compelling evidence that glucagon-like peptide-1 (GLP-1) receptor agonists — the class of drugs behind Ozempic, Wegovy and Mounjaro, for example … [+2258 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Tribunecontentagency.com</Name>
+      </Source>
+      <Author>dpa</Author>
+      <Title>New research looks at link between calcium pills and dementia risk - The Seattle Times</Title>
+      <Description>Osteoporosis affects around one in five women over the age of 70. Scientists at three universities their research found "no evidence" linking cognitive decline with calcium pills.</Description>
+      <Url>https://delivery.tribunecontentagency.com/preview/202511110415MCT_____NEWS_SVC_60980_knibc</Url>
+      <UrlToImage>https://images.seattletimes.com/wp-content/uploads/2025/11/11112025_Calcium_pills_TZR_tzr_054430.jpg?d=1200x630</UrlToImage>
+      <PublishedAt>2025-11-11T13:46:46Z</PublishedAt>
+      <Content>SYDNEY As women age, brittle bones or osteoporosis can be a worry, as can dementia. There have long been whispers that calcium supplements taken to prevent the former can add to the risk of the latte… [+1313 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Neurosciencenews.com</Name>
+      </Source>
+      <Author>Neuroscience News</Author>
+      <Title>Autism and ADHD Brain Patterns Reveal Shared Biological Roots - Neuroscience News</Title>
+      <Description>A new study shows that autism symptom severity, rather than a formal diagnosis, aligns with shared brain-connectivity patterns across children diagnosed with autism or ADHD.</Description>
+      <Url>https://neurosciencenews.com/autism-adhd-genetic-roots-29919/</Url>
+      <UrlToImage>https://neurosciencenews.com/files/2025/11/ASD-ADHD-genetics-neurosciecnce.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T12:59:38Z</PublishedAt>
+      <Content>Summary: A new study shows that autism symptom severity, rather than a formal diagnosis, aligns with shared brain-connectivity patterns across children diagnosed with autism or ADHD. Stronger autisti… [+8348 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Hindustan Times</Name>
+      </Source>
+      <Author>Eshana Saha</Author>
+      <Title>Neuroscientist shares 3 major risk factors for developing Alzheimer's disease: Vitamin deficiency, inflammation, more | Health - Hindustan Times</Title>
+      <Description>Every day habits influence how your brain ages. Robert Love outlines 3 factors that increase the risk of getting Alzheimer's when you're older.&amp;nbsp; | Health</Description>
+      <Url>https://www.hindustantimes.com/lifestyle/festivals/neuroscientist-shares-3-major-risk-factors-for-developing-alzheimers-disease-vitamin-deficiency-inflammation-more-101762864342370.html</Url>
+      <UrlToImage>https://www.hindustantimes.com/ht-img/img/2025/11/11/1600x900/logo/alzheimer_1762865140752_1762865140973.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T12:54:38Z</PublishedAt>
+      <Content>Alzheimers and dementia are often thought of as conditions that strike only in old age - but the groundwork for these diseases can be laid decades earlier. Certain risk factors and lifestyle habits t… [+2428 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>the-washington-post</Id>
+        <Name>The Washington Post</Name>
+      </Source>
+      <Author>Carolyn Y. Johnson</Author>
+      <Title>Inside the debate over a tech breakthrough raising questions about life itself - The Washington Post</Title>
+      <Description>A research team at Stanford University has harnessed the power of AI to design phages, raising questions about the future of biotechnology and its applications.</Description>
+      <Url>https://www.washingtonpost.com/science/2025/11/11/ai-designed-viruses-bacteria-life/</Url>
+      <UrlToImage>https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MV5NLJF4BFGPHIUYNI6PX5L6FE.jpg&amp;w=1440</UrlToImage>
+      <PublishedAt>2025-11-11T12:32:04Z</PublishedAt>
+      <Content>A group of Stanford University scientists posted a paper online in mid-September, describing a feat that could have been plucked from the pages of science fiction: They used artificial intelligence t… [+48 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>ScienceAlert</Name>
+      </Source>
+      <Author>Michelle Starr</Author>
+      <Title>Study Finds Humans Age Faster at 2 Sharp Peaks – Here's When to Expect Them - ScienceAlert</Title>
+      <Description>Getting older might seem like a slow, gradual process – but research suggests that this is not always the case.</Description>
+      <Url>https://www.sciencealert.com/human-aging-two-sharp-peaks</Url>
+      <UrlToImage>https://www.sciencealert.com/images/2025/11/Girl-and-grandmother-close-up.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T12:03:51Z</PublishedAt>
+      <Content>Getting older might seem like a slow, gradual process but research suggests that this is not always the case.
+In fact, if you wake up one morning, look in the mirror, and wonder if your aging someho… [+4217 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>The Texas Tribune</Name>
+      </Source>
+      <Author>Stephen Simpson, Dan Keemahill</Author>
+      <Title>The number of whooping cough cases in Texas is the highest it’s been in 11 years - The Texas Tribune</Title>
+      <Description>The state has recorded more than 3,500 cases of whooping cough so far this year, 10 times the number in 2023.</Description>
+      <Url>http://www.texastribune.org/2025/11/11/texas-pertussis-whooping-cough-disease-infectious/</Url>
+      <UrlToImage>https://i0.wp.com/www.texastribune.org/wp-content/uploads/2025/11/20250227-Lubbock-Vaccines-REUTERS-scaled.jpg?fit=2560%2C1726&amp;quality=89&amp;ssl=1</UrlToImage>
+      <PublishedAt>2025-11-11T11:00:00Z</PublishedAt>
+      <Content>Audio recording is automated for accessibility. Humans wrote and edited the story. See our AI policy, and give us feedback.
+More than 3,500 cases of pertussis, or whooping cough, cases have been rep… [+10889 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Medical Xpress</Name>
+      </Source>
+      <Author>New York University</Author>
+      <Title>Estrogen's role in boosting dopamine and cognition: Experiments uncover how hormones influence learning - Medical Xpress</Title>
+      <Description>Researchers have long established that hormones significantly affect the brain, creating changes in emotion, energy levels, and decision-making. However, the intricacies of these processes are not well understood.</Description>
+      <Url>https://medicalxpress.com/news/2025-11-estrogen-role-boosting-dopamine-cognition.html</Url>
+      <UrlToImage>https://scx2.b-cdn.net/gfx/news/hires/2022/woman-thinking.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T10:00:06Z</PublishedAt>
+      <Content>Researchers have long established that hormones significantly affect the brain, creating changes in emotion, energy levels, and decision-making. However, the intricacies of these processes are not we… [+3197 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>PEOPLE</Name>
+      </Source>
+      <Author>Michelle Lee</Author>
+      <Title>Woman, 70, Says She Was 'Always' Confident. Then She Spent 8 Hours Getting Dramatic Plastic Surgery (Exclusive) - AOL.com</Title>
+      <Description>Susanne had eight cosmetic enhancements, including a facelift and fat transfer, done. Now, her confidence has only doubled. "I love what I see now," she tell...</Description>
+      <Url>https://people.com/woman-spends-8-hours-getting-plastic-surgery-before-after-photos-exclusive-11844218</Url>
+      <UrlToImage>https://s.yimg.com/ny/api/res/1.2/9MjUewu5DPLrUZ4yQw1Hrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_people_articles_471/9e6f3fb53ae71f7b32d93a78644ae25e</UrlToImage>
+      <PublishedAt>2025-11-11T09:33:53Z</PublishedAt>
+      <Content>Dr. Carl Truesdale
+ Susanne's before-and-after plastic surgery photos
+NEED TO KNOW
+&lt;ul&gt;&lt;li&gt;Susanne began her health and wellness transformation when she was 68, dedicating herself to a healthier w… [+4514 chars]</Content>
+    </Article>
+  </Articles>
+</NewsApiData>

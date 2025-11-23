@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NewsApiData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://mynamespace/test/">
+  <Status>ok</Status>
+  <TotalResults>30</TotalResults>
+  <Articles>
+    <Article>
+      <Source>
+        <Id>associated-press</Id>
+        <Name>Associated Press</Name>
+      </Source>
+      <Author>Christopher Rugaber</Author>
+      <Title>Shutdown leaves a mark on an already-struggling economy, from lost paychecks to canceled flights - AP News</Title>
+      <Description>The longest federal government shutdown in U.S. history appears to be nearing an end, but not without leaving a mark on an already-struggling economy. About 1.25 million federal workers missed at least one or two paychecks. Thousands of flights have been canc…</Description>
+      <Url>https://apnews.com/article/economy-impact-shutdown-snap-flights-trump-826406b1083b262cad78338bc99f103b</Url>
+      <UrlToImage>https://dims.apnews.com/dims4/default/8575cc0/2147483647/strip/true/crop/5000x2813+0+261/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3a%2Ff5%2F12644fc5614bc818caafeee80fca%2F5f0516789dfe47b1a2b62c4264c6b437</UrlToImage>
+      <PublishedAt>2025-11-12T01:30:00Z</PublishedAt>
+      <Content>WASHINGTON (AP) The longest federal government shutdown in U.S. history appears to be nearing an end, but not without leaving a mark on an already-struggling economy. 
+About 1.25 million federal wor… [+6796 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>NPR</Name>
+      </Source>
+      <Author />
+      <Title>Why flight disruptions could linger even after the government shutdown ends - NPR</Title>
+      <Description>Airlines and aviation regulators warned that flight disruptions are likely to continue even after the government reopens. Thousands of flights have been cancelled as air traffic restrictions ramp up.</Description>
+      <Url>https://www.npr.org/2025/11/11/nx-s1-5605538/air-traffic-control-flights-controllers-government-shutdown</Url>
+      <UrlToImage>https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4200x2363+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F05%2F07%2Fc05079db4d4c99b01e6792524acc%2Fap25315690999467.jpg</UrlToImage>
+      <PublishedAt>2025-11-12T01:28:17Z</PublishedAt>
+      <Content>WASHINGTON Flight disruptions are likely to continue even after the government reopens, airlines and aviation regulators warned, as airlines cancelled scores of flights on Tuesday.
+The Federal Aviat… [+3064 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>bloomberg</Id>
+        <Name>Bloomberg</Name>
+      </Source>
+      <Author>Min-Jeong Lee, Kentaro Tsutsumi</Author>
+      <Title>SoftBank’s Shares Dive After Nvidia Sale Spooks AI-Wary Market - Bloomberg.com</Title>
+      <Description>SoftBank Group Corp.’s stock slid as much as 10% after the tech investor’s exit from AI chipmaker Nvidia Corp. spooked investors already nervous about climbing tech-sector valuations.</Description>
+      <Url>https://www.bloomberg.com/news/articles/2025-11-12/softbank-s-shares-dive-after-nvidia-sale-spooks-ai-wary-market</Url>
+      <UrlToImage>https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8YJNsHWEaBQ/v0/1200x800.jpg</UrlToImage>
+      <PublishedAt>2025-11-12T00:50:00Z</PublishedAt>
+      <Content>SoftBank Group Corp.s stock slid as much as 10% after the tech investors exit from AI chipmaker Nvidia Corp. spooked investors already nervous about climbing tech-sector valuations.
+The Japanese com… [+376 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>the-washington-post</Id>
+        <Name>The Washington Post</Name>
+      </Source>
+      <Author>Dan Diamond, Rachel Roubein</Author>
+      <Title>FDA taps oncology expert Pazdur as nation’s top drug regulator - The Washington Post</Title>
+      <Description>Richard Pazdur, a longtime Food and Drug Administration employee, will lead its center that oversees over-the-counter medicines and the majority of prescription drugs.</Description>
+      <Url>https://www.washingtonpost.com/health/2025/11/11/richard-pazdur-fda-center-for-drug-evaluation-research/</Url>
+      <UrlToImage>https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7K3L4PE3ZMDNFVSYAKWA4YDBQE_size-normalized.jpg&amp;w=1440</UrlToImage>
+      <PublishedAt>2025-11-12T00:16:00Z</PublishedAt>
+      <Content>The Trump administration has named Richard Pazdur, a longtime oncology expert at the Food and Drug Administration, as the nations top drug regulator.
+Pazdur will lead the agencys Center for Drug Eva… [+284 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>BBC News</Name>
+      </Source>
+      <Title>Starbucks' barista strike could undermine its turnaround plan - BBC</Title>
+      <Description>The coffee giant is returning to its roots to boost sales but labour tensions could derail the strategy.</Description>
+      <Url>https://www.bbc.com/news/articles/c5ype4j07xpo</Url>
+      <UrlToImage>https://ichef.bbci.co.uk/news/1024/branded_news/8790/live/85bfe0b0-be6e-11f0-ab9d-83e1c35826e9.jpg</UrlToImage>
+      <PublishedAt>2025-11-12T00:04:20Z</PublishedAt>
+      <Content>Danielle Kaye,Business reporter and 
+Natalie Sherman,Business reporter
+Starbucks workers attend a rally as they go on a one-day strike outside a store in Buffalo, New York, US, November 17, 2022.
+… [+5339 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>New York Post</Name>
+      </Source>
+      <Author>Lisa Fickenscher</Author>
+      <Title>Amazon cuts 700 jobs in NYC alone on quest to streamline by slashing 30,000 positions - New York Post</Title>
+      <Description>“The size of the Amazon cuts remains a head scratcher given the battle for talent and [the] AI revolution in motion,” said Wedbush analyst Dan Ives.</Description>
+      <Url>https://nypost.com/2025/11/11/business/amazons-massive-layoffs-include-nearly-700-terminations-in-nyc-state-department-of-labor/</Url>
+      <UrlToImage>https://nypost.com/wp-content/uploads/sites/2/2025/11/newspress-collage-ye1mtws80-1762897718821.jpg?quality=75&amp;strip=all&amp;1762879729&amp;w=1200</UrlToImage>
+      <PublishedAt>2025-11-11T23:48:00Z</PublishedAt>
+      <Content>Amazons massive October layoffs included 660 terminations in Manhattan, according to New York State government records.
+The ax fell on nine office addresses affecting corporate employees only, Amazo… [+2797 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>TrekMovie</Name>
+      </Source>
+      <Title>Paramount Outlines Expanded Film Slate And More Streaming Originals… But What About Star Trek? - TrekMovie.com</Title>
+      <Description>David Ellison and his team spoke to investors about the future of the transformed company that owns Star Trek.</Description>
+      <Url>https://trekmovie.com/2025/11/11/paramount-outlines-expanded-film-slate-and-more-streaming-originals-but-what-about-star-trek/</Url>
+      <UrlToImage>https://trekmovie.com/wp-content/uploads/2025/08/newparamount-trek-head2.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T23:13:10Z</PublishedAt>
+      <Content>This week will mark the first 100 days since David Ellison and his Skydance team took over Paramount. For the last three months what Paramount is up to has been a hot topic in Hollywood, Wall Street,… [+7727 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>bloomberg</Id>
+        <Name>Bloomberg</Name>
+      </Source>
+      <Author>Ian King</Author>
+      <Title>AMD Predicts Accelerating Sales Growth Driven by Data Centers - Bloomberg.com</Title>
+      <Description>Advanced Micro Devices Inc., Nvidia Corp.’s nearest rival in AI chips, predicted accelerating sales growth over the next five years, driven by strong demand for its data center products.</Description>
+      <Url>https://www.bloomberg.com/news/articles/2025-11-11/amd-predicts-accelerating-sales-growth-driven-by-data-centers</Url>
+      <UrlToImage>https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6JU_zKg_G24/v1/1200x800.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T22:59:09Z</PublishedAt>
+      <Content>Advanced Micro Devices Inc., Nvidia Corp.s nearest rival in AI chips, predicted accelerating sales growth over the next five years, driven by strong demand for its data center products.
+Annual reven… [+413 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>associated-press</Id>
+        <Name>Associated Press</Name>
+      </Source>
+      <Author>Stan Choe</Author>
+      <Title>The Dow rallies 550 points to a record - AP News</Title>
+      <Description>Most of Wall Street is rising, and the U.S. stock market is back to where it was before last week’s swoon. The S&amp;P 500 added 0.2% Tuesday after erasing a loss taken during the morning. The Dow Jones Industrial Average rallied 539 points, or 1.2%, and was on t…</Description>
+      <Url>https://apnews.com/article/stocks-markets-shutdown-trump-rates-e6aea0a5dcacc6087c492a0537ed6c40</Url>
+      <UrlToImage>https://dims.apnews.com/dims4/default/79bf897/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F91%2F08%2F5887bc5448f70f9b163b65ab1aac%2F3bc070a8baa74d46a96881fcbe112db6</UrlToImage>
+      <PublishedAt>2025-11-11T22:49:00Z</PublishedAt>
+      <Content>NEW YORK (AP) Most U.S. stocks rose on Tuesday and carried the market back to where it was before last weeks swoon.
+The S&amp;amp;P 500 added 0.2% after erasing a loss taken during the morning. Its been… [+4841 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Fox Baltimore</Name>
+      </Source>
+      <Author>DANNY TOW | FOX45 NEWS</Author>
+      <Title>Chick-Fil-A to test new menu item in Baltimore - WBFF</Title>
+      <Description>Fast-food chain Chick-Fil-A is rolling out a new test menu item, and Baltimoreans will be among the first with a chance to try it.Starting December 1, select Ch</Description>
+      <Url>https://foxbaltimore.com/news/local/chick-fil-a-test-new-menu-item-baltimore-chicken-waffles</Url>
+      <UrlToImage>https://foxbaltimore.com/resources/media/e1eceda4-11ab-45c8-bd19-23e9f0245a99-thumb_13762.png</UrlToImage>
+      <PublishedAt>2025-11-11T22:31:39Z</PublishedAt>
+      <Content>(WBFF) Fast-food chain Chick-Fil-A is rolling out a new test menu item, and Baltimoreans will be among the first with a chance to try it.
+Starting December 1, select Chick-Fil-A locations in Baltimo… [+660 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Investor's Business Daily</Name>
+      </Source>
+      <Title>Stock Market Today: Dow Surges As Shutdown End Nears; Buffett Stock Gets Hot (Live Coverage) - Investor's Business Daily</Title>
+      <Description>Stock Market Today: The Dow Jones index rose Tuesday after the passage of the shutdown bill. Nvidia partner CoreWeave plunged on earnings.</Description>
+      <Url>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-shutdown-bill-nvidia-nvda-coreweave-crwv/</Url>
+      <UrlToImage>https://www.investors.com/wp-content/uploads/2021/09/Stock-wallstreetflag-01-adobe.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T21:21:00Z</PublishedAt>
+      <Content>Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>KTVU San Francisco</Name>
+      </Source>
+      <Author>Aja Seldon</Author>
+      <Title>San Francisco Muni driver asleep as speeding train tosses screaming riders - KTVU</Title>
+      <Description>San Francisco Muni passengers screamed as they were jolted, some falling from their seats, when a light rail train traveled at an excessive speed while the driver dozed off to sleep, according to video footage.</Description>
+      <Url>https://www.ktvu.com/news/muni-driver-falls-asleep-san-francisco-video</Url>
+      <UrlToImage>https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2025/11/1280/720/screenshot-2025-11-11-115542.png?ve=1&amp;tl=1</UrlToImage>
+      <PublishedAt>2025-11-11T20:51:02Z</PublishedAt>
+      <Content>SAN FRANCISCO - San Francisco Muni passengers screamed as they were jolted, some falling from their seats, when a light rail train traveled at an excessive speed while the driver dozed off to sleep, … [+2724 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>cbs-news</Id>
+        <Name>CBS News</Name>
+      </Source>
+      <Author>Mary  Cunningham</Author>
+      <Title>A 107% U.S. import tax on Italian pasta could make your favorite spaghetti pricier — or hard to find - CBS News</Title>
+      <Description>The Trump administration is considering a new import duty on 13 of Italy's largest pasta exporters, including Barilla and La Molisana.</Description>
+      <Url>https://www.cbsnews.com/news/italian-pasta-antidumping-duties-imports-disappear-barilla/</Url>
+      <UrlToImage>https://assets1.cbsnewsstatic.com/hub/i/r/2025/11/11/b8d8867c-a9d4-492b-90dd-818509d32a36/thumbnail/1200x630/52c1355aae7b83b2d67f47ed2c2d8078/gettyimages-2246090417-1.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T20:19:14Z</PublishedAt>
+      <Content>Americans may soon be paying more for their favorite Italian pasta brands — or even have trouble finding imported spaghetti — as the Trump administration eyes a new import duty on 13 of Italy's large… [+3216 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Teslarati</Name>
+      </Source>
+      <Author>Simon Alvarez</Author>
+      <Title>Tesla Takedown group prepares anti-Elon Musk effort on November 15 - Teslarati</Title>
+      <Description>Organizers also emphasized that</Description>
+      <Url>https://www.teslarati.com/tesla-takedown-group-prepares-anti-elon-musk-effort-nov-15/</Url>
+      <UrlToImage>https://www.teslarati.com/wp-content/uploads/2025/03/2048px-Tesla_Takedown_protest_in_Brooklyn_15131-1000x600.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T19:37:06Z</PublishedAt>
+      <Content>Elon Musk recently amplified the thoughts of Morgan Stanley analyst Adam Jonas, who had insight into the “Muskonomy” of his potentially interconnected ventures, something that was proposed at the rec… [+3460 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Slashdot.org</Name>
+      </Source>
+      <Title>AI's $5 Trillion Cost Needs Every Debt Market, JPMorgan Says - Slashdot</Title>
+      <Description>The furious push by AI hyperscalers to build out data centers will need about $1.5 trillion of investment-grade bonds over the next five years and extensive funding from every other corner of the market, according to an analysis by JPMorgan. From a report: "T…</Description>
+      <Url>https://slashdot.org/story/25/11/11/1730232/ais-5-trillion-cost-needs-every-debt-market-jpmorgan-says</Url>
+      <UrlToImage>https://a.fsdn.com/sd/topics/ai_64.png</UrlToImage>
+      <PublishedAt>2025-11-11T17:22:25Z</PublishedAt>
+      <Content>A third of the US stock market is in AI related business. The AI bubble pop will be more like an envelope collapse in a hot air balloon, ascending so quickly that you can't close the parachute and th… [+1037 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>FDA.gov</Name>
+      </Source>
+      <Author>Office of Inspections and Investigations</Author>
+      <Title>ByHeart Broadens Voluntary Recall While Investigation Continues - fda.gov</Title>
+      <Description>[New York, NY] – ByHeart, a next-generation baby nutrition company, announced today that it is expanding its voluntary recall to include all batches of ByHeart Whole Nutrition Infant Formula cans and Anywhere Pack™ nationwide. This action is being taken in cl…</Description>
+      <Url>https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/byheart-broadens-voluntary-recall-while-investigation-continues</Url>
+      <UrlToImage>https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png</UrlToImage>
+      <PublishedAt>2025-11-11T17:10:00Z</PublishedAt>
+      <Content>Summary
+Company Announcement Date:
+November 11, 2025
+FDA Publish Date:
+November 11, 2025
+Product Type:
+Food &amp;amp; Beverages 
+Foodborne Illness
+Reason for Announcement:
+Recall Reason Descript… [+3659 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>cbs-news</Id>
+        <Name>CBS News</Name>
+      </Source>
+      <Title>Wendy's to close hundreds of U.S. stores as low-income consumers cut back - CBS News</Title>
+      <Description>Wendy's plans to close hundreds U.S. restaurants over the next few months amid spending cutbacks from its customers.</Description>
+      <Url>https://www.cbsnews.com/news/wendys-closing-restaurants-hamburger-chain-closures/</Url>
+      <UrlToImage>https://assets2.cbsnewsstatic.com/hub/i/r/2025/08/08/30c36cb6-1813-4063-bf20-97e345f08960/thumbnail/1200x630/6723aa382910e0533adf02a126806b5e/gettyimages-2184086643.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T15:17:46Z</PublishedAt>
+      <Content>Wendy's plans to close hundreds of U.S. restaurants in the coming months as revenue and profits decline, with the company citing cutbacks by lower-income consumers that it expects will persist throug… [+2520 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>the-times-of-india</Id>
+        <Name>The Times of India</Name>
+      </Source>
+      <Author>Aastha Raj</Author>
+      <Title>Texas Roadhouse Veterans Day Deal 2025: Top Freebies, discounts and where to get them — All restaurant dea - The Economic Times</Title>
+      <Description>As Americans commemorate Veterans Day 2025 on Tuesday, restaurants and service chains nationwide are offering free meals, discounts, and special deals to honor veterans and active-duty members of the military.</Description>
+      <Url>https://economictimes.indiatimes.com/news/international/us/texas-roadhouse-veterans-day-deal-2025-top-freebies-discounts-and-where-to-get-them-all-restaurant-deals/articleshow/125250483.cms</Url>
+      <UrlToImage>https://img.etimg.com/thumb/msid-125250514,width-1200,height-630,imgsize-11680,overlay-economictimes/articleshow.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T13:16:23Z</PublishedAt>
+      <Content>As Americans observe Veterans Day 2025 on Tuesday, restaurants and service chains across the United States are rolling out free meals, discounts, and special offers to honour veterans and active-duty… [+3907 chars]</Content>
+    </Article>
+  </Articles>
+</NewsApiData>

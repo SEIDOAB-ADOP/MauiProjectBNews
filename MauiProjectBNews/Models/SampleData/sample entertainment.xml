@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NewsApiData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://mynamespace/test/">
+  <Status>ok</Status>
+  <TotalResults>22</TotalResults>
+  <Articles>
+    <Article>
+      <Source>
+        <Name>Hollywood Reporter</Name>
+      </Source>
+      <Title>‘Dancing With the Stars’ Celebrates 20 Years With Perfect Scores, Tom Bergeron and Another Elimination: See the Scores, Who Went Home - The Hollywood Reporter</Title>
+      <Url>http://www.hollywoodreporter.com/tv/tv-news/dwts-20-birthday-season-34-episode-9-scores-elimination-1236424329/</Url>
+      <PublishedAt>2025-11-12T03:28:40Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Name>TVLine</Name>
+      </Source>
+      <Author>Claire Franken</Author>
+      <Title>NCIS: Origins Bosses Explain Why We Didn't See Mark Harmon's Gibbs Reunite With Lala — Plus, Get Scoop On [Spoiler]'s Surprise Cameo - TVLine</Title>
+      <Description>TVLine spoke to the NCIS: Origins showrunners about Mark Harmon's return and a surprise cameo in Tuesday's NCIS crossover — read the full Q&amp;A.</Description>
+      <Url>https://www.tvline.com/2024199/ncis-origins-crossover-mark-harmon-muse-watson-recap/</Url>
+      <UrlToImage>https://www.tvline.com/img/gallery/ncis-origins-episode-5-post-mortem/l-intro-1762919151.jpg</UrlToImage>
+      <PublishedAt>2025-11-12T02:00:00Z</PublishedAt>
+      <Content>TVLINE | I want to shift gears and get into the Vera and Franks of it all. By the end of the episode, we learn Franks wasn't ever really asking Vera on a date, but the way he suggested motorcycle cla… [+1313 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>cnn</Id>
+        <Name>CNN</Name>
+      </Source>
+      <Author>Dan Heching</Author>
+      <Title>‘Toy Story 5’ teaser trailer: Screens are the enemy - CNN</Title>
+      <Description>It’s the “Toy Story” toys vs. tech in the new teaser for the latest sequel.</Description>
+      <Url>https://www.cnn.com/2025/11/11/entertainment/toy-story-5-teaser-watch-now</Url>
+      <UrlToImage>https://media.cnn.com/api/v1/images/stellar/prod/c-toy-story-5.jpg?c=16x9&amp;q=w_800,c_fill</UrlToImage>
+      <PublishedAt>2025-11-12T01:13:00Z</PublishedAt>
+      <Content>Is the age of toys really over?
+That is the fateful question posed by the new teaser trailer for Toy Story 5, released by Pixar on Tuesday, which picks up on the familiar parenting conundrum about s… [+1157 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>associated-press</Id>
+        <Name>Associated Press</Name>
+      </Source>
+      <Author>Andrew Dalton</Author>
+      <Title>A happy circumstance: Bob Ross paintings sell for more than $600K to help public TV stations - AP News</Title>
+      <Description>Three paintings from public television legend Bob Ross have sold for over $600,000 at auction. The sales took place Tuesday at Bonhams in Los Angeles. The paintings are part of a collection of 30 works being sold to support public TV stations affected by fede…</Description>
+      <Url>https://apnews.com/article/bob-ross-paintings-auction-pbs-benefit-funding-4f4f055d6838ab4e802f1a422496c881</Url>
+      <UrlToImage>https://dims.apnews.com/dims4/default/df2e4e1/2147483647/strip/true/crop/1719x967+0+117/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa3%2F09%2F6f8a77c9c99c90e62a7c9ef857b7%2F734762b201fa4de19da96c31dfa1e3b4</UrlToImage>
+      <PublishedAt>2025-11-12T00:31:00Z</PublishedAt>
+      <Content>LOS ANGELES (AP) Three paintings from famously chill public television legend Bob Ross sold Tuesday for more than $600,000 at auction. The paintings were the first of 30 Ross works being sold to bene… [+2488 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Deadline</Name>
+      </Source>
+      <Author>Pete Hammond</Author>
+      <Title>'The Carpenter's Son' Review: Nicolas Cage In Biblical Horror mashup - Deadline</Title>
+      <Description>A review of 'The Carpenter's Son' which stars Nicolas Cage as Joseph in conflict with the teenage Jesus who is just finding his way and unique self.</Description>
+      <Url>http://deadline.com/2025/11/the-carpenters-son-review-nicolas-cage-biblical-horror-1236614411/</Url>
+      <UrlToImage>https://deadline.com/wp-content/uploads/2025/11/The-Carpenters-Son.avif?w=1024</UrlToImage>
+      <PublishedAt>2025-11-11T22:19:00Z</PublishedAt>
+      <Content>You have to give writer-director Lotfy Nathan points for originality.
+His new film, The Carpenter’s Son, is not just any standard telling of the oft-told story of Joseph and Mary and their son, Jesu… [+3997 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>HuffPost</Name>
+      </Source>
+      <Author>Curtis M. Wong</Author>
+      <Title>Ruby Rose Gives Jaw-Dropping Critique Of Sydney Sweeney's ‘Christy’ Casting - HuffPost</Title>
+      <Description>The biopic about boxing champ Christy Martin earned just $1.3 million at the U.S. box office in its opening weekend.</Description>
+      <Url>https://www.huffpost.com/entry/ruby-rose-slams-sydney-sweeney-christy-casting_n_69137da7e4b0d0f8e6ce7b80</Url>
+      <UrlToImage>https://img.huffingtonpost.com/asset/6913965817000055729c53f6.jpeg?cache=bKBFui2VGI&amp;ops=500_281%2Cscalefit_1200_630</UrlToImage>
+      <PublishedAt>2025-11-11T21:40:09Z</PublishedAt>
+      <Content>Ruby Rose isnt mincing words when it comes to Christy, the big-screen biopic starring Sydney Sweeney as boxing champion Christy Martin. 
+In a fiery post shared to Threads early Tuesday, the Orange I… [+3867 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Page Six</Name>
+      </Source>
+      <Author>Riley Cardoza</Author>
+      <Title>Controversial star looks unrecognizable in new role for crime thriller - Yahoo</Title>
+      <Description>The 50-year-old Emmy nominee sported a fat suit, gray hair and a beard while filming "Evil Genius" in Woodbrige, New Jersey on Monday.</Description>
+      <Url>https://pagesix.com/2025/11/11/entertainment/david-harbour-looks-unrecognizable-in-new-role-for-crime-thriller/?utm_source=yahoo&amp;amp;utm_campaign=pagesix&amp;amp;utm_medium=referral</Url>
+      <UrlToImage>https://s.yimg.com/ny/api/res/1.2/jkSoDj12rsOtCM5Hq17HXg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/page_six_articles_559/459f0c41c7bf91e3707519be15d9333d</UrlToImage>
+      <PublishedAt>2025-11-11T21:32:18Z</PublishedAt>
+      <Content>Strange things are happening on the Evil Genius set.
+David Harbour was photographed looking unrecognizable while filming his forthcoming thriller in New Jersey on Monday.
+The actor, 50, sported a f… [+2820 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>PBS</Name>
+      </Source>
+      <Title>Sally Kirkland, Oscar-nominated screen and stage star, dies at age 84 - PBS</Title>
+      <Description>Her biggest role was in 1987's “Anna” as a fading Czech movie star remaking her life in the United States.</Description>
+      <Url>https://www.pbs.org/newshour/arts/sally-kirkland-oscar-nominated-screen-and-stage-star-dies-at-age-84</Url>
+      <UrlToImage>https://d3i6fh83elv35t.cloudfront.net/static/2025/11/GettyImages-105919550-1024x706.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T21:21:49Z</PublishedAt>
+      <Content>NEW YORK (AP) Sally Kirkland, a one-time model who became a regular on stage, film and TV, best known for sharing the screen with Paul Newman and Robert Redford in The Sting and her Oscar-nominated t… [+4443 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Variety</Name>
+      </Source>
+      <Author>Owen Gleiberman</Author>
+      <Title>'The Running Man' Review: Glen Powell Joins a Homicidal Reality Show - Variety</Title>
+      <Description>It's better than Arnold Schwarzenegger's 1987 version, but King's prophetic tale of violence-as-entertainment-as-control has little future shock left.</Description>
+      <Url>https://variety.com/2025/film/reviews/the-running-man-review-glenn-powell-edgar-wright-1236574249/</Url>
+      <UrlToImage>https://variety.com/wp-content/uploads/2025/11/TRM_19898K_763ef9.jpg?w=1000&amp;h=563&amp;crop=1</UrlToImage>
+      <PublishedAt>2025-11-11T19:00:00Z</PublishedAt>
+      <Content>In the 1980s, science-fiction movies reveled in presenting the future as a grand bad dream of where we were headed — movies like “Blade Runner,” “Outland,” “The Terminator,” and “Escape from New York… [+6286 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Defector.com</Name>
+      </Source>
+      <Title>Guillermo del Toro’s ‘Frankenstein’ Is Flawed Because His Creature Is Not - Defector</Title>
+      <Description>Guillermo del Toro has devoted much of his career to sanctifying monsters. In his first feature film, Cronos, an aging antique dealer stumbles into eternal life, becoming a vampire who, rather than being dangerous or terrifying, is filled with pathos and unde…</Description>
+      <Url>https://defector.com/guillermo-del-toros-frankenstein-is-flawed-because-his-creature-is-not</Url>
+      <UrlToImage>https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/11/frankenstein.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T18:27:00Z</PublishedAt>
+      <Content>Guillermo del Toro has devoted much of his career to sanctifying monsters. In his first feature film, Cronos, an aging antique dealer stumbles into eternal life, becoming a vampire who, rather than b… [+10980 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Id>nbc-news</Id>
+        <Name>NBC News</Name>
+      </Source>
+      <Author>The Associated Press</Author>
+      <Title>Founding Kiss guitarist Ace Frehley died from injuries suffered in fall, autopsy shows - NBC News</Title>
+      <Description>MORRISTOWN, N.J. — Ace Frehley, the original lead guitarist and founding member of the glam rock band Kiss, died from blunt force injuries to the head that he suffered in a fall earlier this year, an autopsy has determined</Description>
+      <Url>https://www.nbcnews.com/pop-culture/pop-culture-news/founding-kiss-guitarist-ace-frehley-died-injuries-suffered-fall-autops-rcna243276</Url>
+      <UrlToImage>https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251111-Ace-Frehley-ch-1322-09beb3.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T18:26:11Z</PublishedAt>
+      <Content>MORRISTOWN, N.J. Ace Frehley, the original lead guitarist and founding member of the glam rock band Kiss, died from blunt force injuries to the head that he suffered in a fall earlier this year, an a… [+2424 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Hollywood Reporter</Name>
+      </Source>
+      <Author>Etan Vlessing</Author>
+      <Title>Allison Mack Explains How Kristin Kreuk Steered Her to NXIVM Sex Cult: “She Was Super Excited About It” - The Hollywood Reporter</Title>
+      <Description>The former ‘Smallville’ star talked to the CBC ‘Allison After NXIVM’ podcast in her first interview since leaving federal prison after she pled guilty to her role in the Keith Raniere-led enterprise.</Description>
+      <Url>http://www.hollywoodreporter.com/news/general-news/allison-mack-kristin-kreuk-nxivm-1236423906/</Url>
+      <UrlToImage>https://www.hollywoodreporter.com/wp-content/uploads/2025/11/Allison-Mack-and-Kristin-Kreuk-Split-Getty-H-2025.jpg?w=1296&amp;h=730&amp;crop=1</UrlToImage>
+      <PublishedAt>2025-11-11T18:07:12Z</PublishedAt>
+      <Content>Former Smallville actress Allison Mack claims fellow series star Kristin Kreuk introduced her to a life coaching course in Vancouver that was later revealed to be the NXIVM sex cult in a podcast that… [+2276 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Deadline</Name>
+      </Source>
+      <Author>Dessi Gomez</Author>
+      <Title>'Tell Me Lies' Season 3 Sets Premiere Date For Next Year - Deadline</Title>
+      <Description>Hulu also revealed first-look photos for the third season of the book adaptation.</Description>
+      <Url>http://deadline.com/2025/11/tell-me-lies-season-3-release-date-first-look-photos-1236614087/</Url>
+      <UrlToImage>https://deadline.com/wp-content/uploads/2025/11/177691_0646R2.jpg?w=1024</UrlToImage>
+      <PublishedAt>2025-11-11T17:55:00Z</PublishedAt>
+      <Content>Hulu’s Tell Me Lies Season 3 will premiere Jan. 13 2026 with its first two episodes on the streamer and on Disney+ with the Hulu on Disney+ bundle in the U.S. It will premiere on Disney+ internationa… [+1978 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Yahoo Entertainment</Name>
+      </Source>
+      <Title>Timothee Chalamet Has Reportedly ‘Broken Up With’ Kylie Jenner Following ‘Vogue’ Diss - Yahoo</Title>
+      <Url>https://www.yahoo.com/entertainment/celebrity/articles/timothee-chalamet-reportedly-broken-kylie-174950420.html</Url>
+      <PublishedAt>2025-11-11T17:49:50Z</PublishedAt>
+    </Article>
+    <Article>
+      <Source>
+        <Name>International Business Times UK</Name>
+      </Source>
+      <Author>Thea Felicity</Author>
+      <Title>'No Remorse': Diddy Reportedly Acting Like He's Above Prison Rules, Treating Fort Dix Like 'Luxury Rehab' - International Business Times UK</Title>
+      <Description>Sean 'Diddy' Combs is reportedly ignoring rules at his new prison, using his influence to manage business from behind bars by smuggling devices and treating Fort Dix as a 'luxury rehab'.</Description>
+      <Url>https://www.ibtimes.co.uk/no-remorse-diddy-reportedly-acting-like-hes-above-prison-rules-treating-fort-dix-like-luxury-1754169</Url>
+      <UrlToImage>https://d.ibtimes.co.uk/en/full/1766618/diddy-trial.jpg</UrlToImage>
+      <PublishedAt>2025-11-11T16:44:00Z</PublishedAt>
+      <Content>Sean 'Diddy' Combs is reportedly showing little regard for prison rules at FCI Fort Dix, where he is serving a four-year, two-month sentence for prostitution-related offences.
+Sources say the 56-yea… [+3153 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Variety</Name>
+      </Source>
+      <Author>Owen Gleiberman</Author>
+      <Title>‘Now You See Me: Now You Don’t’ Review: Jesse Eisenberg Leads an Expanded Team of Magicians in a Worthy Third Sleight-of-Hand Thriller - Variety</Title>
+      <Description>The Four Horsemen team up with a trio of next-generation illusionists for a caper that sustains the series' playful trickery.</Description>
+      <Url>https://variety.com/2025/film/reviews/now-you-see-me-now-you-dont-review-jesse-eisenberg-1236573734/</Url>
+      <UrlToImage>https://variety.com/wp-content/uploads/2025/11/nomad-unit-240906-00136rc2.jpg?w=1000&amp;h=563&amp;crop=1</UrlToImage>
+      <PublishedAt>2025-11-11T14:00:00Z</PublishedAt>
+      <Content>Hit-of-the-week popcorn movies are all about escapism, but they’re almost never about play. That’s the appeal of the “Now You See Me” films. They’ve got elements of action and crime and snarky screwb… [+5898 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>The DIS</Name>
+      </Source>
+      <Author>Chloé Ferreira</Author>
+      <Title>Disney World Unveils New $499 Yearlong Ticket for U.S. Military Members - The DIS</Title>
+      <Description>Walt Disney World is offering a $499 Military Salute Ticket for 2026, giving U.S. service members yearlong park access; plus Disneyland &amp; Disney Cruise Offers</Description>
+      <Url>https://www.wdwinfo.com/walt-disney-world/disney-world-unveils-new-499-yearlong-ticket-for-u-s-military-members/</Url>
+      <UrlToImage>https://www.wdwinfo.com/wp-content/uploads/2025/11/IMG_0994.JPG</UrlToImage>
+      <PublishedAt>2025-11-11T13:45:43Z</PublishedAt>
+      <Content>In honor of Veterans Day and the upcoming 250th anniversary of the United States, Walt Disney World has announced a new ticket offer exclusively for U.S. military members and their families. The Disn… [+1955 chars]</Content>
+    </Article>
+    <Article>
+      <Source>
+        <Name>Rolling Stone</Name>
+      </Source>
+      <Author>Emily Zemler</Author>
+      <Title>Psychics Told Kim Kardashian She Would Pass the Bar Exam. She Didn’t - Rolling Stone</Title>
+      <Description>Kim Kardashian revealed that several psychics told her she would pass the California bar exam, but she did not.</Description>
+      <Url>http://www.rollingstone.com/tv-movies/tv-movie-news/kim-kardashian-bar-exam-psychics-1235463221/</Url>
+      <UrlToImage>https://www.rollingstone.com/wp-content/uploads/2025/11/GettyImages-2242736559.jpg?w=1600&amp;h=900&amp;crop=1</UrlToImage>
+      <PublishedAt>2025-11-11T08:49:41Z</PublishedAt>
+      <Content>After Kim Kardashianrevealed last week that she failed the California bar exam, the reality star criticized the psychics who predicted she would pass. 
+In a TikTok recap of her mom Kris Jenner’s 70t… [+1790 chars]</Content>
+    </Article>
+  </Articles>
+</NewsApiData>
